@@ -13,3 +13,4 @@ sudo apt install build-essential -y
 ./nvm.sh
 ./sdkman.sh
 ./go.sh
+./nvm.sh
