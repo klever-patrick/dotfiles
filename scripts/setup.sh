@@ -14,3 +14,4 @@ sudo apt install build-essential tree sqlite3 -y
 ./sdkman.sh
 ./go.sh
 ./nvm.sh
+./vscode.sh

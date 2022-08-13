@@ -1,6 +1,6 @@
-# Ubuntu wsl Dotfiles
+# Ubuntu Dotfiles
 
-My personal set-up scripts. 
+My personal set-up scripts.
 
 ## Included `scripts/`
 
@@ -11,6 +11,7 @@ My personal set-up scripts.
 - `oh-my-zsh.sh` install oh my zsh and the plugins I like to use
 - `sdkman.sh` downloads sdkman and packages that it depends on
 - `go.sh` downloads latest version of go
+- `vscode.sh` downloads vs code
 - `setup.sh` runs all scripts at once
 
 ## Instalation
