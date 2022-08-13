@@ -15,3 +15,4 @@ sudo apt install build-essential tree sqlite3 -y
 ./go.sh
 ./nvm.sh
 ./vscode.sh
+./brave-browser.sh

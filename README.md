@@ -12,6 +12,7 @@ My personal set-up scripts.
 - `sdkman.sh` downloads sdkman and packages that it depends on
 - `go.sh` downloads latest version of go
 - `vscode.sh` downloads vs code
+- `brave-browser.sh` downloads brave-browser
 - `setup.sh` runs all scripts at once
 
 ## Instalation
