@@ -4,7 +4,7 @@ chmod -R 777 ./
 
 ./apt-update-upgrade.sh
 
-sudo apt install build-essential tree sqlite3 -y
+sudo apt install wget curl build-essential tree sqlite3 -y
 
 ./symlink.sh
 ./git.sh
@@ -16,3 +16,4 @@ sudo apt install build-essential tree sqlite3 -y
 ./nvm.sh
 ./vscode.sh
 ./brave-browser.sh
+./discord.sh

@@ -9,10 +9,11 @@ My personal set-up scripts.
 - `git.sh` adds ppa git repo and updates its version
 - `zsh.sh` install zsh
 - `oh-my-zsh.sh` install oh my zsh and the plugins I like to use
-- `sdkman.sh` downloads sdkman and packages that it depends on
-- `go.sh` downloads latest version of go
-- `vscode.sh` downloads vs code
-- `brave-browser.sh` downloads brave-browser
+- `sdkman.sh` install sdkman and packages that it depends on
+- `go.sh` install latest version of go
+- `vscode.sh` install vs code
+- `brave-browser.sh` install brave-browser
+- `discord.sh` install discord
 - `setup.sh` runs all scripts at once
 
 ## Instalation
