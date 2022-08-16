@@ -17,3 +17,4 @@ sudo apt install wget curl build-essential tree sqlite3 -y
 ./vscode.sh
 ./brave-browser.sh
 ./discord.sh
+./jetbrains-toolbox.sh

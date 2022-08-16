@@ -76,7 +76,7 @@ source $ZSH/oh-my-zsh.sh
 source ~/.profile
 
 # User configuration
-
+export PATH="$HOME/.local/share/JetBrains/Toolbox/scripts:$PATH"
 # export MANPATH="/usr/local/man:$MANPATH"
 
 # You may need to manually set your language environment
