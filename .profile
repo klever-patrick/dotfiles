@@ -26,5 +26,5 @@ if [ -d "$HOME/.local/bin" ] ; then
     PATH="$HOME/.local/bin:$PATH"
 fi
 
-# Add go to PATh
+# Add go to PATH
 export PATH=$PATH:/usr/local/go/bin
