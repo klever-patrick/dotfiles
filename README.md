@@ -15,6 +15,7 @@ My personal set-up scripts.
 - `brave-browser.sh` installs brave-browser
 - `discord.sh` installs discord
 - `jetbrains-toolbox.sh` installs jetbrains-toolbox
+- `docker.sh` installs docker
 - `setup.sh` runs all scripts at once
 
 ## Instalation

@@ -18,3 +18,4 @@ sudo apt install wget curl build-essential tree sqlite3 -y
 ./brave-browser.sh
 ./discord.sh
 ./jetbrains-toolbox.sh
+./docker.sh
