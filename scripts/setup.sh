@@ -4,7 +4,7 @@ chmod -R 777 ./
 
 ./apt-update-upgrade.sh
 
-sudo apt install wget curl build-essential tree sqlite3 -y
+sudo apt install wget curl build-essential tree sqlite3 gimp -y
 
 ./symlink.sh
 ./git.sh
