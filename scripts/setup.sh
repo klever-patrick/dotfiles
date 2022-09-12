@@ -18,4 +18,5 @@ sudo apt install wget curl build-essential tree sqlite3 gimp -y
 ./brave-browser.sh
 ./discord.sh
 ./jetbrains-toolbox.sh
+./obs-studio.sh
 ./docker.sh
