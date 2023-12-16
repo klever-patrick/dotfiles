@@ -1,15 +1,15 @@
 font:
   normal:
-    family: Roboto Mono Nerd Font
+    family: JetBrains Mono Nerd Font
     style: Regular
   bold:
-    family: Roboto Mono Nerd Font
+    family: JetBrains Mono Nerd Font
     style: Bold
   italic:
-    family: Roboto Mono Nerd Font
+    family: JetBrains Mono Nerd Font
     style: Italic
   bold_italic:
-    family: Roboto Mono Nerd Font
+    family: JetBrains Mono Nerd Font
     style: Bold Italic
   size: 11
 
@@ -29,6 +29,9 @@ window:
   class:
     instance: Alacritty
     general: Alacritty
+
+env:
+  TERM: xterm-256color
 
 key_bindings:
   - { key: V, mods: Control|Shift, action: Paste }
