@@ -8,6 +8,4 @@ sudo apt install git -y
 
 git --version
 
-rm -rf $HOME/.gitconfig
-
-ln -s $HOME/.dotfiles/.gitconfig $HOME/.gitconfig
+rm -rf "$HOME/.gitconfig"
