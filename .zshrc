@@ -17,9 +17,13 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 
 plugins=(git zsh-syntax-highlighting zsh-autosuggestions)
 
+eval "$(zoxide init zsh)"
+
 export LANG=en_US.UTF-8
 export PATH="$PATH:$(go env GOBIN):$(go env GOPATH)/bin"
 export EDITOR='nvim'
+
+alias get_idf='. $HOME/esp/esp-idf/export.sh'
 
 ZSH_CACHE_DIR=$HOME/.cache/oh-my-zsh
 if [[ ! -d $ZSH_CACHE_DIR ]]; then
